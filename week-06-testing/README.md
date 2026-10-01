@@ -4,7 +4,7 @@
 Dejar de ser consumidor de tests y aprender a diseñarlos: qué probar, en qué nivel y con qué coste.
 
 ## Spring Initializr
-Base: Maven, Java 21, Spring Boot 3.x estable. Usa **Spring Boot Test** (incluido habitualmente en proyectos Initializr), Spring Web/JPA según cada ejercicio.
+Base: Maven, Java 21, Spring Boot 4.1.1. Usa **Spring Boot Test** (incluido habitualmente en proyectos Initializr), Spring Web/JPA según cada ejercicio.
 
 ## Documentación
 - https://docs.spring.io/spring-boot/reference/testing/

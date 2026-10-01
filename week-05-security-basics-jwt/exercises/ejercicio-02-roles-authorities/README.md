@@ -6,7 +6,7 @@
 Practicar **roles y authorities**.
 
 ## Spring Initializr
-Maven · Java 21 · Spring Boot 3.x estable. Dependencias base: **Spring Web** y **Spring Security**.
+Maven · Java 21 · Spring Boot 4.1.1. Dependencias base: **Spring Web** y **Spring Security**.
 
 Artifact sugerido: `roles-authorities`.
 

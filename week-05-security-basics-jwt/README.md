@@ -4,7 +4,7 @@
 Comprender autenticación y autorización antes de copiar configuraciones JWT.
 
 ## Spring Initializr
-Base: Maven, Java 21, Spring Boot 3.x estable, **Spring Web** y **Spring Security**. Añade otras dependencias solo cuando el ejercicio las necesite.
+Base: Maven, Java 21, Spring Boot 4.1.1, **Spring Web** y **Spring Security**. Añade otras dependencias solo cuando el ejercicio las necesite.
 
 ## Documentación
 - https://docs.spring.io/spring-security/reference/
