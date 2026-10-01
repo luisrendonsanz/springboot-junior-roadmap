@@ -6,7 +6,7 @@
 Practicar **H2 → PostgreSQL**.
 
 ## Spring Initializr
-Maven · Java 21 · Spring Boot 3.x estable. Selecciona las dependencias necesarias a partir del enunciado; como base usarás Spring Web + Spring Data JPA y H2/PostgreSQL cuando corresponda.
+Maven · Java 21 · Spring Boot 4.1.1. Selecciona las dependencias necesarias a partir del enunciado; como base usarás Spring Web + Spring Data JPA y H2/PostgreSQL cuando corresponda.
 
 Artifact sugerido: `postgresql-migration`.
 

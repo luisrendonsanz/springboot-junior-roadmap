@@ -4,7 +4,7 @@
 Construir APIs que fallen de forma predecible y comuniquen errores útiles al cliente.
 
 ## Spring Initializr
-Base: Maven, Java 21, Spring Boot 3.x estable, **Spring Web** y **Validation**. Puedes añadir JPA si reutilizas persistencia de la semana anterior, pero no es el foco.
+Base: Maven, Java 21, Spring Boot 4.1.1, **Spring Web** y **Validation**. Puedes añadir JPA si reutilizas persistencia de la semana anterior, pero no es el foco.
 
 ## Documentación
 - https://docs.spring.io/spring-framework/reference/core/validation/beanvalidation.html

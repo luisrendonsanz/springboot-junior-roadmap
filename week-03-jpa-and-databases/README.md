@@ -4,7 +4,7 @@
 Persistir datos con Spring Data JPA y comprender qué responsabilidades pertenecen a JPA, Hibernate, Spring Data y la base de datos.
 
 ## Spring Initializr
-Base: Maven, Java 21, Spring Boot 3.x estable, Group `com.luisrendonsanz`.
+Base: Maven, Java 21, Spring Boot 4.1.1, Group `com.luisrendonsanz`.
 Dependencias habituales: **Spring Web**, **Spring Data JPA**, **H2 Database**. El ejercicio 06 añade **PostgreSQL Driver**.
 
 ## Documentación

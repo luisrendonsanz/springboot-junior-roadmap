@@ -6,7 +6,7 @@
 Practicar **rangos y reglas de entrada**.
 
 ## Spring Initializr
-Maven · Java 21 · Spring Boot 3.x estable · Group `com.luisrendonsanz`. Dependencias principales: **Spring Web** y **Validation**.
+Maven · Java 21 · Spring Boot 4.1.1 · Group `com.luisrendonsanz`. Dependencias principales: **Spring Web** y **Validation**.
 
 Artifact sugerido: `numeric-domain-constraints`.
 
