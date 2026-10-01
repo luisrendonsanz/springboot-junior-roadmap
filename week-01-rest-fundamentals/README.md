@@ -4,7 +4,7 @@
 Pasar de endpoints básicos a un uso consciente de HTTP y Spring MVC.
 
 ## Spring Initializr
-Para cada ejercicio: Maven, Java 21, Spring Boot 3.x estable, Group `com.luisrendonsanz`, dependencia **Spring Web**. Genera y descomprime tú el proyecto dentro de la carpeta del ejercicio.
+Para cada ejercicio: Maven, Java 21, Spring Boot 4.1.1, Group `com.luisrendonsanz`, dependencia **Spring Web**. Genera y descomprime tú el proyecto dentro de la carpeta del ejercicio.
 
 ## Documentación
 - https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller/ann-methods.html

@@ -7,7 +7,7 @@ Plan práctico de 8 semanas para consolidar competencias de Java/Spring Boot ori
 ## Stack
 
 - Java 21
-- Spring Boot 3.x
+- Spring Boot 4.1.1
 - Maven
 - Spring Web / Spring Data JPA / Validation / Security
 - H2 y PostgreSQL
@@ -33,7 +33,7 @@ Plan práctico de 8 semanas para consolidar competencias de Java/Spring Boot ori
 1. Elige el siguiente ejercicio.
 2. Entra en su carpeta.
 3. Lee `README.md` y `ENUNCIADO.md`.
-4. Genera el proyecto en [Spring Initializr](https://start.spring.io/) con Java 21, Maven y Spring Boot 3.x estable.
+4. Genera el proyecto en [Spring Initializr](https://start.spring.io/) con Java 21, Maven y Spring Boot 4.1.1.
 5. Descomprime el proyecto **dentro de la carpeta del ejercicio**.
 6. Trabaja en una rama `feat/week-XX-ex-YY`.
 7. Haz commits pequeños siguiendo Conventional Commits.

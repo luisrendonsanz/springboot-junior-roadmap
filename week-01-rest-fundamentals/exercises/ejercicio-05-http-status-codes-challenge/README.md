@@ -6,7 +6,7 @@
 Practicar **201, 400, 404, 409 y headers**.
 
 ## Spring Initializr
-Maven · Java 21 · Spring Boot 3.x estable · Group `com.luisrendonsanz` · Dependency: **Spring Web**.
+Maven · Java 21 · Spring Boot 4.1.1 · Group `com.luisrendonsanz` · Dependency: **Spring Web**.
 
 Artifact sugerido: `http-status-codes-challenge`.
 

@@ -4,7 +4,7 @@
 Separar responsabilidades y usar el contenedor de Spring de forma consciente.
 
 ## Spring Initializr
-Maven · Java 21 · Spring Boot 3.x estable · Group `com.luisrendonsanz` · **Spring Web**.
+Maven · Java 21 · Spring Boot 4.1.1 · Group `com.luisrendonsanz` · **Spring Web**.
 
 ## Documentación
 - https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-collaborators.html
