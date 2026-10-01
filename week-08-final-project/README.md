@@ -44,7 +44,7 @@ El diagrama marca responsabilidades, no una lista rígida de clases.
 Genera tú el proyecto:
 - Maven
 - Java 21
-- Spring Boot 3.x estable
+- Spring Boot 4.1.1
 - Group: `com.luisrendonsanz`
 - Artifact sugerido: `order-management-api`
 

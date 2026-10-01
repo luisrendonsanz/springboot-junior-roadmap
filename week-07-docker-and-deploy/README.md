@@ -4,7 +4,7 @@
 Pasar de “funciona en mi IDE” a una API reproducible, documentada y verificable.
 
 ## Spring Initializr
-Reutiliza o genera proyectos con Maven, Java 21 y Spring Boot 3.x estable. Las herramientas principales de esta semana se añaden alrededor de la aplicación: Docker, Compose, OpenAPI y CI.
+Reutiliza o genera proyectos con Maven, Java 21 y Spring Boot 4.1.1. Las herramientas principales de esta semana se añaden alrededor de la aplicación: Docker, Compose, OpenAPI y CI.
 
 ## Documentación
 - https://docs.docker.com/

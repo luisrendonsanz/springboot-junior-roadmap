@@ -6,7 +6,7 @@
 Practicar **elegir nivel de test**.
 
 ## Spring Initializr
-Genera el proyecto que necesites con Java 21 y Spring Boot 3.x estable. Tú decides las dependencias concretas según el enunciado.
+Genera el proyecto que necesites con Java 21 y Spring Boot 4.1.1. Tú decides las dependencias concretas según el enunciado.
 
 Artifact sugerido: `testing-strategy-challenge`.
 

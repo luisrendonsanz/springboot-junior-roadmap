@@ -6,7 +6,7 @@
 Practicar **Swagger/OpenAPI**.
 
 ## Preparación
-Usa Java 21 y Spring Boot 3.x estable. Puedes reutilizar una API anterior cuando el enunciado lo permita; si generas una nueva, hazlo tú con Spring Initializr.
+Usa Java 21 y Spring Boot 4.1.1. Puedes reutilizar una API anterior cuando el enunciado lo permita; si generas una nueva, hazlo tú con Spring Initializr.
 
 ## Hecho cuando
 - [ ] Otra persona puede reproducir el resultado.
