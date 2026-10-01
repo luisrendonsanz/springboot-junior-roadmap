@@ -1,0 +1,16 @@
+name: Learning note
+description: Record a concept to review
+title: "[Learning] "
+body:
+  - type: textarea
+    id: concept
+    attributes:
+      label: Concepto
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: ¿Qué no entiendo todavía?
+    validations:
+      required: true

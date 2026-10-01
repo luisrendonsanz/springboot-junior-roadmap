@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  test-maven-projects:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+          cache: maven
+      - name: Discover and test Maven projects
+        shell: bash
+        run: |
+          set -euo pipefail
+          mapfile -t poms < <(find week-* -type f -name pom.xml | sort)
+          if [ "${#poms[@]}" -eq 0 ]; then
+            echo "No Maven projects found yet."
+            exit 0
+          fi
+          for pom in "${poms[@]}"; do
+            echo "Testing $pom"
+            mvn -B -f "$pom" test
+          done
